@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "yarn parcel ./src/index.html"
+    "dev": "yarn parcel ./src/index.html"
   },
   "devDependencies": {
     "@parcel/transformer-pug": "2.10.2",
